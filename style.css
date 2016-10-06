@@ -4,5 +4,8 @@ html, body {
 }
 
 #background-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
   background: #1d2021;
 }
